@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #2b2e02;
+  color: aliceblue;
+  border-radius: 5px;
+ 
+}
+
+h4 {
+  text-align: left;
+  margin-left: 10px;
+ 
+}
+
+.timer {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.container {
+  background-color: #e9cf5c;
+  padding: 20px;
+  border-radius: 5px;
+
+}
+
+.quesion-session {
+  text-align: center;
+ 
+}
+
+.game-completed{
+  background-color: rgba(0, 0, 0, 0.616);
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+}
+
+.game-completed h1 {
+  font-size: 50px;
+  color: aliceblue;
+}
